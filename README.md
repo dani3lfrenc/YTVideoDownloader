@@ -2,7 +2,7 @@
 
 - Download your favourite videos directly form the Menu Bar of your Mac
 
-![Alt text](/relative/path/to/img.jpg?raw=true)
+![Alt text](1.png?raw=true)
 
 
 
